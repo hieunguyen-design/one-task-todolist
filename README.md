@@ -32,6 +32,7 @@ cd todo-list
 
 ## 📁 File Structure
 
+```
 todo-list/
 ├── dist/
 ├── node_modules/
@@ -46,6 +47,7 @@ todo-list/
 ├── README.md
 ├── package.json
 └── webpack.config.js
+```
 
 ---
 
