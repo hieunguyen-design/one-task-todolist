@@ -24,18 +24,28 @@ A lightweight and intuitive task management app built with **JavaScript**, **HTM
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/one-task.git
-cd one-task
+git clonehttps://github.com/hieunguyen-design/todo-list.git
+cd todo-list
 ```
 
 ---
 
 ## 📁 File Structure
 
-├── index.html
-├── styles.css
-├── scripts.js
+todo-list/
+├── dist/
+├── node_modules/
+├── src/
+│ ├── assets
+│ │ └── Group 7.svg
+│ ├── index.js
+│ ├── template.html
+│ └── style.css
+├── eslint.config.mjs
+├── package-lock.json
 ├── README.md
+├── package.json
+└── webpack.config.js
 
 ---
 
@@ -59,7 +69,7 @@ const project1 = Project.createNewProject("Work", "Task");
 
 ### `Todo` Module
 
-Handles creation and storage of projects.
+Handles creation and storage of todos.
 
 ```js
 const todo1 = Todo.createNewTodo(
