@@ -4,7 +4,7 @@ A lightweight and intuitive task management app built with **JavaScript**, **HTM
 
 ---
 
-👉 [Click here to view the app](https://hieunguyen-design.github.io/todo-list/)
+👉 [Click here to view the app](https://hieunguyen-design.github.io/one-task-todolist/)
 
 ---
 
@@ -24,8 +24,8 @@ A lightweight and intuitive task management app built with **JavaScript**, **HTM
 ### 1. Clone the repository
 
 ```bash
-git clonehttps://github.com/hieunguyen-design/todo-list.git
-cd todo-list
+git clonehttps://github.com/hieunguyen-design/one-task-todolist.git
+cd one-task-todolist
 ```
 
 ---
@@ -33,7 +33,7 @@ cd todo-list
 ## 📁 File Structure
 
 ```
-todo-list/
+one-task-todolist/
 ├── dist/
 ├── node_modules/
 ├── src/
